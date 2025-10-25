@@ -1,17 +1,17 @@
-## Multiple Disease Prediction System
-Project Overview
+### Multiple Disease Prediction System
+# Project Overview
 
 The Multiple Disease Prediction System is a web-based application built using Streamlit that allows users to predict the likelihood of various diseases based on their medical parameters. Currently, the system supports prediction for:
 
-Diabetes
+1)Diabetes
 
-Heart Disease
+2)Heart Disease
 
-Parkinson’s Disease
+3)Parkinson’s Disease
 
 The system is designed to be extensible, so additional diseases can be added in the future with ease.
 
-Features
+## Features
 
 User-friendly web interface with 3-column input layout for cleaner UI.
 
@@ -23,7 +23,7 @@ Handles input validation to ensure numeric values are provided.
 
 Modular design to add new diseases easily.
 
-Technologies Used
+## Technologies Used
 
 Python 3.x
 
