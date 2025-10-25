@@ -25,7 +25,7 @@ Modular design to add new diseases easily.
 
 ## Technologies Used
 
-Python 3.x
+Python 3.11.13
 
 Streamlit – for building the web interface
 
