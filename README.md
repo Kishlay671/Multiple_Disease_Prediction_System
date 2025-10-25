@@ -1,4 +1,4 @@
-Multiple Disease Prediction System
+## Multiple Disease Prediction System
 Project Overview
 
 The Multiple Disease Prediction System is a web-based application built using Streamlit that allows users to predict the likelihood of various diseases based on their medical parameters. Currently, the system supports prediction for:
