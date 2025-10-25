@@ -23,6 +23,18 @@ Handles input validation to ensure numeric values are provided.
 
 Modular design to add new diseases easily.
 
+## Project Structure 
+Multiple_Disease_Prediction_System/
+│
+├── Models/                # Pre-trained ML models (.sav files)
+│   ├── diabetes_model.sav
+│   ├── heart_model.sav
+│   └── parkinsons_model.sav
+│
+├── Multiple_Disease_Prediction.py   # Streamlit app
+├── requirements.txt       # Python dependencies
+└── README.md
+
 ## Technologies Used
 
 Python 3.11.13
@@ -34,3 +46,10 @@ scikit-learn – for ML model loading and predictions
 Pickle – for saving and loading pre-trained ML models
 
 Pandas & NumPy – for data handling
+
+## Future Updates
+
+The system is designed to be extensible, and future updates may include prediction for additional diseases such as:
+# Kidney Disease
+# Liver Disease
+# COVID-19 severity prediction
