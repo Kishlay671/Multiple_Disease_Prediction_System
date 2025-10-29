@@ -39,7 +39,8 @@ cd Multiple_Disease_Prediction_System
 
 pip install -r requirements.txt
 
-streamlit run Multiple_Disease_Prediction.py
+streamlit run "/Users/kishlaykumar/Documents/GitHub/Multiple_Disease_Prediction_System/Multiple_Disease_Prediction.py"
+
 ```
 
 Access on browser 👉 http://localhost:8501 ✅
