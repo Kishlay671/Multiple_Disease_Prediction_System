@@ -11,7 +11,7 @@
 \
 
 
-streamlit run "/Users/kishlaykumar/Documents/GitHub/Multiple_Disease_Prediction_System/Multiple_Disease_Prediction.py"
+streamlit run "/Users/kishlaykumar/Documents/GitHub/Multiple_Disease_Prediction_System/app.py"
 
 
 
